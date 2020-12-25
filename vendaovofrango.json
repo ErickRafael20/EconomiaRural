@@ -1,0 +1,610 @@
+{
+  "YearIncrement": 2022,
+  "lucro":
+  [
+    {
+      "Ano":"2020",
+      "Ovo":
+      {
+        "Result": 0.00
+      },
+      "Frango":
+      {
+        "Result": 0.00
+      },
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Ano":"2021",
+      "Ovo":
+      {
+        "Result": 0.00
+      },
+      "Frango":
+      {
+        "Result": 0.00
+      },
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Ovo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Frango":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

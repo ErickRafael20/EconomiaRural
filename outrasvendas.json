@@ -1,0 +1,572 @@
+{
+  "YearIncrement": 2022,
+  "outros":
+  [
+    {
+      "Ano":"2020",
+      "Result": 0.00,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Ano":"2021",
+      "Result": 0.00,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Outros1":
+              {
+                "Valor": 0.00,
+                "LengthIncrement" : 0
+              }
+
+            },
+            {
+              "Outros2":
+              {
+                "Valor": 0.00,
+                "Qnt": 0,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

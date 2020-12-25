@@ -1,0 +1,212 @@
+{
+  "YearIncrement": 2022,
+  "gasolina":
+  [
+    {
+      "Ano":"2020",
+      "Result": 0.00,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        }
+      ]
+    },
+    {
+      "Ano":"2021",
+      "Result": 0.00,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          {
+            "Valor": 0.00,
+            "LengthIncrement" : 0
+          }
+        }
+      ]
+    }
+  ]
+}

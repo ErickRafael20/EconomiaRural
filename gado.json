@@ -1,0 +1,1082 @@
+{
+  "YearIncrement": 2022,
+  "gado":
+  [
+    {
+      "Ano":"2020",
+      "Gado":
+      {
+        "Result": 0.00
+      },
+      "Leite":
+      {
+        "Result": 0.00
+      },
+      "Queijo":
+      {
+        "Result": 0.00
+      },
+      "Requeijao":
+      {
+        "Result": 0.00
+      },
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Ano":"2021",
+      "Gado":
+      {
+        "Result": 0.00
+      },
+      "Leite":
+      {
+        "Result": 0.00
+      },
+      "Queijo":
+      {
+        "Result": 0.00
+      },
+      "Requeijao":
+      {
+        "Result": 0.00
+      },
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          [
+            {
+              "Gado":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Leite":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Queijo":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+              }
+            },
+            {
+              "Requeijao":
+              {
+                "Valor": 0.00,
+                "Qnt": 0.00,
+                "Result": 0.00,
+                "LengthIncrement" : 0
+
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

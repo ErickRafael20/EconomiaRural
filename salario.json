@@ -1,0 +1,214 @@
+{
+  "YearIncrement": 2022,
+  "salario":
+  [
+    {
+      "Ano":"2020",
+      "SalárioAno": 0.00,
+      "SemSalárioAno" : false,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        }
+      ]
+    },
+    {
+      "Ano":"2021",
+      "SalárioAno": 0.00,
+      "SemSalárioAno" : false,
+      "Year":
+      [
+        {
+          "Mês":"Janeiro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Fevereiro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Março",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Abril",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Maio",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Junho",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Julho",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Agosto",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Setembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Outubro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Novembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        },
+        {
+          "Mês":"Dezembro",
+          "Month":
+          {
+            "Salário": 0.00,
+            "SemSalário" : false
+          }
+        }
+      ]
+    }
+  ]
+}
